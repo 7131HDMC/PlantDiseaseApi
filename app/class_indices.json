@@ -1,1 +1,118 @@
-["Apple-Apple scab", "Apple-Black rot", "Apple-Cedar apple rust", "Apple-healthy", "Blueberry-healthy", "Cherry (including sour)-Powdery mildew", "Cherry (including sour)-healthy", "Corn (maize)-Cercospora leaf spot Gray leaf spot", "Corn (maize)-Common rust ", "Corn (maize)-Northern Leaf Blight", "Corn (maize)-healthy", "Grape-Black rot", "Grape-Esca (Black Measles)", "Grape-Leaf blight (Isariopsis Leaf Spot)", "Grape-healthy", "Orange-Haunglongbing (Citrus greening)", "Peach-Bacterial spot", "Peach-healthy", "Pepper, bell-Bacterial spot", "Pepper, bell-healthy", "Potato-Early blight", "Potato-Late blight", "Potato-healthy", "Raspberry-healthy", "Soybean-healthy", "Squash-Powdery mildew", "Strawberry-Leaf scorch", "Strawberry-healthy", "Tomato-Bacterial spot", "Tomato-Early blight", "Tomato-Late blight", "Tomato-Leaf Mold", "Tomato-Septoria leaf spot", "Tomato-Spider mites Two-spotted spider mite", "Tomato-Target Spot", "Tomato-Tomato Yellow Leaf Curl Virus", "Tomato-Tomato mosaic virus", "Tomato-healthy"]
+{
+    "Apple-Apple scab": {
+        "disease": "scab",
+        "treatment": "A sarna \u00e9 uma doen\u00e7a f\u00fangica que afeta muitas plantas, causando manchas escuras e elevadas nas folhas, frutas e caules. Para tratar a sarna, \u00e9 recomendado remover e destruir as partes afetadas da planta, aplicar um fungicida apropriado e manter a planta bem ventilada para reduzir a umidade. Al\u00e9m disso, \u00e9 importante evitar molhar as folhas durante a rega e fornecer boa drenagem no solo para prevenir o desenvolvimento da doen\u00e7a."
+    },
+    "Apple-Black rot": {
+        "disease": "Podrid\u00e3o negra",
+        "treatment": "A doen\u00e7a da podrid\u00e3o negra pode ser tratada atrav\u00e9s da remo\u00e7\u00e3o e destrui\u00e7\u00e3o das plantas afetadas, da aplica\u00e7\u00e3o de fungicidas apropriados e da ado\u00e7\u00e3o de pr\u00e1ticas de preven\u00e7\u00e3o, como a rota\u00e7\u00e3o de culturas e a elimina\u00e7\u00e3o de restos de cultura infectados."
+    },
+    "Apple-Cedar apple rust": {
+        "disease": "Ferrugem do Cedro-Ma\u00e7\u00e3",
+        "treatment": "A ferrugem do cedro-ma\u00e7\u00e3 pode ser tratada por meio da aplica\u00e7\u00e3o de fungicidas espec\u00edficos. \u00c9 importante tamb\u00e9m realizar a poda de galhos infectados e a remo\u00e7\u00e3o de folhas ca\u00eddas para reduzir a propaga\u00e7\u00e3o da doen\u00e7a. Mantenha a planta em boas condi\u00e7\u00f5es de crescimento, fornecendo uma adequada nutri\u00e7\u00e3o e rega, para fortalecer sua resist\u00eancia \u00e0 doen\u00e7a."
+    },
+    "Apple-healthy": {},
+    "Blueberry-healthy": {},
+    "Cherry (including sour)-Powdery mildew": {
+        "disease": "O\u00eddio",
+        "treatment": "O o\u00eddio pode ser tratado com a aplica\u00e7\u00e3o de fungicidas espec\u00edficos, como enxofre, ou com a poda e remo\u00e7\u00e3o das partes da planta afetadas. Tamb\u00e9m \u00e9 importante manter a planta em um ambiente com boa circula\u00e7\u00e3o de ar e evitar molhar as folhas durante a rega."
+    },
+    "Cherry (including sour)-healthy": {},
+    "Corn (maize)-Cercospora leaf spot Gray leaf spot": {
+        "disease": "Mancha foliar de Cercospora / Mancha cinzenta",
+        "treatment": "Para tratar a mancha foliar de Cercospora / mancha cinzenta, \u00e9 recomendado realizar pulveriza\u00e7\u00f5es com fungicidas espec\u00edficos, seguindo as instru\u00e7\u00f5es de dosagem e aplica\u00e7\u00e3o fornecidas pelo fabricante. Tamb\u00e9m \u00e9 importante manejar adequadamente a irriga\u00e7\u00e3o e evitar o excesso de umidade nas folhas, al\u00e9m de remover e destruir as folhas infectadas para reduzir a dissemina\u00e7\u00e3o da doen\u00e7a."
+    },
+    "Corn (maize)-Common rust ": {
+        "disease": "Ferrugem comum",
+        "treatment": "A ferrugem comum pode ser tratada com fungicidas apropriados, como o mancozebe ou o tebuconazol. Al\u00e9m disso, \u00e9 importante realizar a poda e remo\u00e7\u00e3o das partes afetadas da planta, manter a \u00e1rea ao redor da planta limpa e arejada, e evitar molhar as folhas durante a rega para reduzir a umidade e prevenir a propaga\u00e7\u00e3o da doen\u00e7a."
+    },
+    "Corn (maize)-Northern Leaf Blight": {
+        "disease": "Mancha Norte da Folha",
+        "treatment": "Para tratar a Mancha Norte da Folha, remova e destrua as folhas afetadas. Utilize fungicidas apropriados e fa\u00e7a rota\u00e7\u00e3o de culturas. Mantenha a planta\u00e7\u00e3o limpa e evite o excesso de umidade."
+    },
+    "Corn (maize)-healthy": {},
+    "Grape-Black rot": {
+        "disease": "Podrid\u00e3o negra",
+        "treatment": "A podrid\u00e3o negra pode ser tratada com a poda e remo\u00e7\u00e3o das partes afetadas da planta, al\u00e9m do uso de fungicidas apropriados. \u00c9 importante tamb\u00e9m manter a planta em boas condi\u00e7\u00f5es de nutri\u00e7\u00e3o e irriga\u00e7\u00e3o para fortalecer sua resist\u00eancia \u00e0s doen\u00e7as."
+    },
+    "Grape-Esca (Black Measles)": {
+        "disease": "Esca (Black Measles)",
+        "treatment": "Esca (ou Black Measles) \u00e9 uma doen\u00e7a que afeta as videiras, causada por fungos. O tratamento recomendado inclui a poda correta das plantas afetadas, a aplica\u00e7\u00e3o de fungicidas apropriados e a promo\u00e7\u00e3o de pr\u00e1ticas culturais que fortale\u00e7am a sa\u00fade das videiras, como a aduba\u00e7\u00e3o equilibrada e o manejo adequado da irriga\u00e7\u00e3o."
+    },
+    "Grape-Leaf blight (Isariopsis Leaf Spot)": {
+        "disease": "Mancha foliar (Mancha foliar de Isariopsis)",
+        "treatment": "A mancha foliar, tamb\u00e9m conhecida como mancha foliar de Isariopsis, pode ser tratada com a aplica\u00e7\u00e3o de fungicidas aprovados para o controle desse tipo de doen\u00e7a. Al\u00e9m disso, \u00e9 importante manter a higiene da planta\u00e7\u00e3o, removendo e destruindo as folhas infectadas, e realizar a rota\u00e7\u00e3o de culturas para reduzir a incid\u00eancia da doen\u00e7a."
+    },
+    "Grape-healthy": {},
+    "Orange-Haunglongbing (Citrus greening)": {
+        "disease": "Huanglongbing (Citrus greening)",
+        "treatment": "O Huanglongbing, tamb\u00e9m conhecido como greening dos citrus, \u00e9 uma doen\u00e7a causada por uma bact\u00e9ria que afeta as laranjeiras e outros citros. Para tratar essa doen\u00e7a, \u00e9 importante implementar pr\u00e1ticas de manejo integrado, como a elimina\u00e7\u00e3o de plantas doentes, o controle de insetos vetores, o uso de mudas sadias e a aplica\u00e7\u00e3o de fertilizantes equilibrados. Al\u00e9m disso, a ado\u00e7\u00e3o de medidas de controle qu\u00edmico e o monitoramento constante da planta\u00e7\u00e3o s\u00e3o fundamentais para o gerenciamento eficaz do Huanglongbing."
+    },
+    "Peach-Bacterial spot": {
+        "disease": "Mancha bacteriana",
+        "treatment": "Para tratar a mancha bacteriana, \u00e9 recomendado o uso de fungicidas bactericidas e a pr\u00e1tica de rota\u00e7\u00e3o de culturas. Al\u00e9m disso, \u00e9 importante realizar a poda das folhas infectadas e manter a boa ventila\u00e7\u00e3o na planta\u00e7\u00e3o para reduzir a umidade, que favorece a prolifera\u00e7\u00e3o da doen\u00e7a."
+    },
+    "Peach-healthy": {},
+    "Pepper, bell-Bacterial spot": {
+        "disease": "Mancha bacteriana",
+        "treatment": "Para tratar a mancha bacteriana, remova as folhas afetadas e use um fungicida bacteriano recomendado. Certifique-se de seguir as instru\u00e7\u00f5es do fabricante para garantir um tratamento eficaz."
+    },
+    "Pepper, bell-healthy": {},
+    "Potato-Early blight": {
+        "disease": "Mancha foliar precoce",
+        "treatment": "Para tratar a mancha foliar precoce, \u00e9 importante realizar uma rota\u00e7\u00e3o de culturas, aplicar fungicidas espec\u00edficos e manejar cuidadosamente a irriga\u00e7\u00e3o para evitar o excesso de umidade."
+    },
+    "Potato-Late blight": {
+        "disease": "M\u00edldio",
+        "treatment": "O tratamento para o m\u00edldio consiste na aplica\u00e7\u00e3o de fungicidas c\u00fapricos ou \u00e0 base de mancozebe. Al\u00e9m disso, \u00e9 importante fazer a rota\u00e7\u00e3o de culturas e evitar o excesso de umidade no solo."
+    },
+    "Potato-healthy": {},
+    "Raspberry-healthy": {},
+    "Soybean-healthy": {},
+    "Squash-Powdery mildew": {
+        "disease": "O\u00eddio",
+        "treatment": "O o\u00eddio pode ser tratado com a aplica\u00e7\u00e3o de fungicidas espec\u00edficos, como enxofre, bicarbonato de s\u00f3dio, \u00f3leo de neem ou produtos \u00e0 base de enxofre. Al\u00e9m disso, \u00e9 importante manter a planta bem ventilada, evitar o excesso de umidade, e retirar e destruir as partes infectadas da planta."
+    },
+    "Strawberry-Leaf scorch": {
+        "disease": "Queima foliar",
+        "treatment": "A queima foliar pode ser tratada atrav\u00e9s da poda das \u00e1reas afetadas, da regula\u00e7\u00e3o da irriga\u00e7\u00e3o para evitar o estresse h\u00eddrico e da aplica\u00e7\u00e3o de fungicidas adequados para controlar qualquer infec\u00e7\u00e3o f\u00fangica associada."
+    },
+    "Strawberry-healthy": {},
+    "Tomato-Bacterial spot": {
+        "disease": "Mancha bacteriana",
+        "treatment": "Para tratar a mancha bacteriana, recomenda-se a remo\u00e7\u00e3o e destrui\u00e7\u00e3o das plantas doentes, a aplica\u00e7\u00e3o de produtos \u00e0 base de cobre e a pr\u00e1tica de rota\u00e7\u00e3o de culturas."
+    },
+    "Tomato-Early blight": {
+        "disease": "Murcha precoce",
+        "treatment": "Para tratar a murcha precoce, remova e destrua as plantas doentes e mantenha uma boa ventila\u00e7\u00e3o para reduzir a umidade. Tamb\u00e9m \u00e9 poss\u00edvel aplicar fungicidas apropriados de acordo com as instru\u00e7\u00f5es do fabricante."
+    },
+    "Tomato-Late blight": {
+        "disease": "Mancha Parda",
+        "treatment": "Para tratar a Mancha Parda, \u00e9 recomendado o uso de fungicidas espec\u00edficos, como o Mancozebe, aplicados de acordo com as instru\u00e7\u00f5es do fabricante. Al\u00e9m disso, \u00e9 importante realizar podas para remover partes da planta afetadas, e manter a planta\u00e7\u00e3o livre de detritos e restos de vegeta\u00e7\u00e3o para reduzir a propaga\u00e7\u00e3o da doen\u00e7a."
+    },
+    "Tomato-Leaf Mold": {
+        "disease": "Mofo foliar",
+        "treatment": "Para tratar o mofo foliar, \u00e9 recomendado remover as folhas afetadas e manter a planta em local com boa circula\u00e7\u00e3o de ar. Evite molhar as folhas e utilize fungicidas apropriados conforme as instru\u00e7\u00f5es do fabricante."
+    },
+    "Tomato-Septoria leaf spot": {
+        "disease": "Mancha foliar de septoria",
+        "treatment": "Para tratar a mancha foliar de septoria, \u00e9 recomendado o uso de fungicidas, aplica\u00e7\u00e3o de cobre ou bicarbonato de s\u00f3dio, al\u00e9m de pr\u00e1ticas de manejo como a elimina\u00e7\u00e3o de restos de cultura infectados e rota\u00e7\u00e3o de culturas."
+    },
+    "Tomato-Spider mites Two-spotted spider mite": {
+        "disease": "\u00c1caros rajados",
+        "treatment": "Para tratar \u00e1caros rajados, \u00e9 recomendado remover as folhas e ramos afetados, aplicar \u00f3leo de nim ou inseticidas naturais, manter um ambiente \u00famido e usar predadores naturais como \u00e1caros predadores ou joaninhas para controlar a infesta\u00e7\u00e3o."
+    },
+    "Tomato-Target Spot": {
+        "disease": "Mancha Alvo",
+        "treatment": "Para tratar a Mancha Alvo, \u00e9 recomendado remover e destruir as partes afetadas da planta, aplicar fungicidas apropriados e manter a planta saud\u00e1vel por meio de pr\u00e1ticas de manejo adequadas, como rega e aduba\u00e7\u00e3o adequadas, e controle da densidade populacional das plantas."
+    },
+    "Tomato-Tomato Yellow Leaf Curl Virus": {
+        "disease": "V\u00edrus do Enrolamento das Folhas Amarelas",
+        "treatment": "O tratamento do V\u00edrus do Enrolamento das Folhas Amarelas envolve a remo\u00e7\u00e3o e destrui\u00e7\u00e3o das plantas doentes, a aplica\u00e7\u00e3o de inseticidas para controle dos vetores, e a implementa\u00e7\u00e3o de medidas de controle cultural, como rota\u00e7\u00e3o de culturas e elimina\u00e7\u00e3o de plantas hospedeiras alternativas."
+    },
+    "Tomato-Tomato mosaic virus": {
+        "disease": "v\u00edrus do mosaico",
+        "treatment": "O tratamento para o v\u00edrus do mosaico inclui a remo\u00e7\u00e3o e descarte de plantas doentes, controle de insetos vetores, pr\u00e1ticas de cultivo que promovam a sa\u00fade das plantas, e uso de variedades resistentes, se dispon\u00edveis."
+    },
+    "Tomato-healthy": {}
+}

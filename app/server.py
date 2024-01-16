@@ -7,7 +7,7 @@ from io import BytesIO
 import json
 
 model = tf.keras.models.load_model('app/plant_disease_model.h5')
-class_names = json.load(open('app/class_indices.json'))
+diseases = json.load(open('app/class_indices.json'))
 
 description = """
 PlantDiseaseHD API is an application that employs a custom machine learning model, utilizing a simple Convolutional Neural Network (CNN), to identify plant diseases through images. 
@@ -69,9 +69,14 @@ async def predict(img: UploadFile=File(...), tags=['predict']):
     # img_arr = tf.keras.preprocessing.image.img_to_array(img)
 
     prediction = model.predict(tensor_img_scaled)
-    print(prediction)
+
+    class_names = list(diseases.keys())
     class_name = class_names[
         np.argmax(prediction)
     ]
-    return {'predicted_class': class_name}
+    return {
+        'predicted_class': {
+            class_name: diseases[class_name]
+        }
+    }
 
