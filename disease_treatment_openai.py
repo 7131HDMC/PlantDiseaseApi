@@ -40,7 +40,7 @@ def class_format(name):
     return arr[1].replace(arr[0],"")
   return arr[1]
 
-def save_json(data, pathname="app/class_indices.json"):
+def save_json(data, pathname="app/class_indices2.json"):
   json_object = json.dumps(data, indent=4)
   with open(pathname, "w") as outfile:
       outfile.write(json_object)
@@ -52,11 +52,11 @@ def search_class_treatment(lang="pt-BR"):
     obj = {class_name:{}}
     if not ("healthy" in class_name):
       disease = class_format(class_name)
-      prompt = f'Translate the plant disease name {disease} to ${lang} and return a descritive text how to treat in {lang} within a json with the keys disease and treatment '
+      prompt = f'Describe the disease "{disease}" or similar symptoms(nutrient deficiency) in "{lang}" for a home plant and return a descritive long text about how to treat those symptoms and/or nutrient deficiency,like explaing for child. Return the text within a json with "treatment" as key and the content formatted with html5'
       treatment = json.loads(fetchAICompletion(prompt))
-      # print(treatment)
+      print(treatment)
       obj[class_name]= {
-        'disease':   treatment['disease'],
+        # 'disease':   treatment['disease'],
         'treatment': treatment['treatment']
       }
     class_names_obj.append(obj)
