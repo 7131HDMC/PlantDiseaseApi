@@ -47,7 +47,6 @@ def save_json(data, pathname="app/class_indices2.json"):
 
 def search_class_treatment(lang="pt-BR"):
   class_names_obj = []
-  # class_format = lambda name: name.split('-')[1]
   for class_name in class_names:
     obj = {class_name:{}}
     if not ("healthy" in class_name):

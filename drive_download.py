@@ -39,7 +39,7 @@ def main():
         file_id = sys.argv[1]
         destination = sys.argv[2]
     else:
-        file_id = "1iqv0P2JLC9I1X6UJFwCeDKf1DU8kEAZv"
+        file_id = ""
         destination = ""
     print(f"dowload {file_id} to {destination}")
     download_file_from_google_drive(file_id, destination)
