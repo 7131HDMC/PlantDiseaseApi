@@ -23,6 +23,7 @@ The model has been trained with a public dataset from [Kaggle](https://www.kaggl
 
 app = FastAPI(
     title="Plant Disease",
+    description=description,
     summary="",
     version="0.0.1",
     contact={
